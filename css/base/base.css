@@ -1,0 +1,30 @@
+body,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+main,
+section,
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  background-color: #fff;
+  color: cGray;
+  -webkit-font-smoothing: antialiased;
+  position: relative;
+}
+a {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
